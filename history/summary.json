@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cotocus.cn.ico",
     "slug": "cotocus-cn",
     "status": "up",
-    "uptime": "97.25%",
-    "uptimeDay": "97.25%",
-    "uptimeWeek": "97.25%",
-    "uptimeMonth": "97.25%",
-    "uptimeYear": "97.25%",
-    "time": 956,
-    "timeDay": 956,
-    "timeWeek": 956,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "uptime": "97.28%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "97.28%",
+    "uptimeMonth": "97.28%",
+    "uptimeYear": "97.28%",
+    "time": 943,
+    "timeDay": 943,
+    "timeWeek": 943,
+    "timeMonth": 943,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2025-05-16": 38
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1253,
-    "timeDay": 1253,
-    "timeWeek": 1253,
-    "timeMonth": 1253,
-    "timeYear": 1253,
+    "time": 1252,
+    "timeDay": 1252,
+    "timeWeek": 1252,
+    "timeMonth": 1252,
+    "timeYear": 1252,
     "dailyMinutesDown": {}
   },
   {
@@ -54,7 +54,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 327,
+      "2025-05-17": 343,
       "2025-05-16": 1053
     }
   },
@@ -75,7 +75,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 327,
+      "2025-05-17": 343,
       "2025-05-16": 1053
     }
   }
