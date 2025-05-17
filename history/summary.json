@@ -4,7 +4,7 @@
     "url": "https://cotocus.cn",
     "icon": "https://icons.duckduckgo.com/ip3/cotocus.cn.ico",
     "slug": "cotocus-cn",
-    "status": "up",
+    "status": "down",
     "uptime": "97.06%",
     "uptimeDay": "97.06%",
     "uptimeWeek": "97.06%",
@@ -16,6 +16,7 @@
     "timeMonth": 977,
     "timeYear": 977,
     "dailyMinutesDown": {
+      "2025-05-17": 0,
       "2025-05-16": 38
     }
   },
@@ -54,7 +55,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 236,
+      "2025-05-17": 237,
       "2025-05-16": 1053
     }
   },
@@ -75,7 +76,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-05-17": 236,
+      "2025-05-17": 237,
       "2025-05-16": 1053
     }
   }
